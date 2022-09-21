@@ -1,0 +1,160 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+.header{
+    height: 100vh;
+    background-image: url(https://startbootstrap.github.io/startbootstrap-stylish-portfolio/assets/img/bg-masthead.jpg);
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+} 
+.header div{
+    text-align:center; 
+    width: 60%;
+    margin: auto;
+    padding-top: 16%;
+}
+.header div h1{
+    font-size: 80px;
+}
+.header div h3{
+    font-style: italic;
+    font-size: 24px;
+    margin: 20px 0;
+}
+.header div button{
+    background-color: #196d87;
+    padding: 25px 50px;
+    border: none;
+    border-radius: 5px;
+    font-weight: lighter;
+    margin: 30px 0;
+    color: #fff;
+    cursor: pointer;
+}
+.header div button:hover{
+    background-color: #13596f;
+}
+
+.about{
+    height: 400px;
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+} 
+.about div{
+    text-align:center; 
+    width: 60%;
+    margin: auto;
+    padding-top: 8%;
+}
+.about div h2{
+    font-size: 32px;
+}
+.about div p ,a{
+    font-size: 16px;
+    margin: 20px 0;
+    color: gray;
+}
+.about div button{
+    background-color: #212529;
+    padding: 25px 50px;
+    border: none;
+    border-radius: 5px;
+    font-weight: lighter;
+    margin: 30px 0;
+    color: #fff;
+    cursor: pointer;
+}
+.about div button:hover{
+    background-color: black;
+}
+.callout{
+    height: 95vh;
+    background-image: url(https://startbootstrap.github.io/startbootstrap-stylish-portfolio/assets/img/bg-callout.jpg);
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+} 
+.callout div{
+    text-align:center; 
+    width: 30%;
+    margin: auto;
+    padding-top: 16%;
+}
+.callout div h1{
+    font-size: 48px;
+}
+.callout div button{
+    background-color: #196d87;
+    padding: 25px 50px;
+    border: none;
+    border-radius: 5px;
+    font-weight: lighter;
+    margin: 30px 0;
+    color: #fff;
+    cursor: pointer;
+}
+.callout div button:hover{
+    background-color: #13596f;
+}
+.click{
+    height: 400px;
+    background-color: #1D809F;
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+} 
+
+.click div{
+    text-align:center; 
+    width: 60%;
+    margin: auto;
+    padding-top: 8%;
+}
+.click div h1{
+    color: #fff;
+    font-size: 32px;
+}
+.click div button{ 
+    padding: 25px 50px;
+    border: none;
+    border-radius: 5px;
+    font-weight: lighter;
+    margin: 30px 10px; 
+    cursor: pointer;  
+}
+.b1{
+    background-color: #212529;
+    color: #fff;
+}
+.b1:hover{
+    background-color: black;
+}
+.b2{
+    background-color: #fff;
+    color: #212529;
+}
+
+.footer{
+    height: 100px;
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+} 
+.footer div{
+    text-align:center; 
+    width: 60%;
+    margin: auto;
+    padding-top: 5%;
+}
+.footer div p{
+    color: gray;
+    font-size: 13px;
+    padding: 40px;
+}
+.icon{
+cursor: pointer;
+}
